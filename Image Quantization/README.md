@@ -1,4 +1,5 @@
 # Image Quantization with K-Means Clustering
+![Untitled video - Made with Clipchamp](https://github.com/PranavInani/Macahine-Learning-Projects/assets/136845154/166e84ca-2bd7-4b17-8e53-e60fe12541d8)
 
 ## Introduction
 
@@ -29,7 +30,6 @@ To use this project, follow these steps:
 - Matplotlib
 - scikit-image
 
-![Untitled video - Made with Clipchamp](https://github.com/PranavInani/Macahine-Learning-Projects/assets/136845154/166e84ca-2bd7-4b17-8e53-e60fe12541d8)
 
 ## Contributing
 
