@@ -1,4 +1,4 @@
-# Content-Based Recommendation System
+# Recommendation System
 
 This repository contains a content-based recommendation system built using the MovieLens dataset. The system recommends movies based on their content, such as titles and genres.
 ## Overview
